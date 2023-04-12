@@ -1,2 +1,3 @@
 # Primate-Blockchain
-Primate blockchain empowers the platform that uses NFT for stock trading
+Primate blockchain is a general purpose finance blockchain used for creating DeFiFiTech platforms & Technologies
+See the white paper for more information
